@@ -1,6 +1,9 @@
 # Currency Converter
 A simple web-based currency converter built with HTML, CSS, and JavaScript. Fetches live exchange rates using a free currency API.
 
+## screeshot link
+https://github.com/Pratheekrs/Currency-Converter/blob/main/screenshot.jpeg
+
 ## Features
 - Convert between 150+ currencies
 - Live exchange rates fetched in real time
